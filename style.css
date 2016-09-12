@@ -16,7 +16,8 @@ p
   font-family: 'Roboto', sans-serif;
 }
 
-input
+input,
+.btn
 {
   border-radius: 0px !important;
 }

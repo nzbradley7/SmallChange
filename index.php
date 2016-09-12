@@ -7,7 +7,7 @@
               <div class="form-group">
                 <input class="form-control" type="text" ng-model="keywords">
               </div>
-              <a href="#" class="btn btn-block btn-add-job" role="button">Apply</a>
+              <a href="#" class="btn btn-block btn-add-job" role="button">Search</a>
             </div>
             <div class="well">
               <a href="addJob.php" class="btn btn-add-job btn-block" role="button"><h4>Add a Job</h4></a>
